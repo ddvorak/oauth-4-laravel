@@ -23,7 +23,7 @@ class OAuth
     private $_serviceFactory;
 
     /**
-     * Storege name from config
+     * Storage name from config
      * @var string
      */
     private $_storage_name = 'Session';
